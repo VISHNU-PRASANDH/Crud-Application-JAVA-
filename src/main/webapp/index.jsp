@@ -9,7 +9,7 @@
 </head>
 <body>
    <div class="form-container">
-    <h2>Add User</h2>
+    <h2>Add User Details</h2>
     <form action="insert" method="post">
       <label for="id">Id</label>
       <input type="number" name="id" id="id" required><br>
